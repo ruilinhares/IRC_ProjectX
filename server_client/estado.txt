@@ -1,0 +1,8 @@
+larilas off user
+linhares off user
+ze off admin
+diogo off user
+ana off admin
+tone off admin
+rosas off user
+su off user
